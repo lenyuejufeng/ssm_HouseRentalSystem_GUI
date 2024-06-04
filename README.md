@@ -1,0 +1,2 @@
+# ssm_HouseRentalSystem_GUI
+基于ssm编写的房屋租凭管理系统
